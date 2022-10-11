@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393697085034",
+    "firebase_url": "https://myfirst-1d28a-default-rtdb.firebaseio.com",
+    "project_id": "myfirst-1d28a",
+    "storage_bucket": "myfirst-1d28a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393697085034:android:518ed8d860953fa8e36c13",
+        "android_client_info": {
+          "package_name": "success_ifeanyi.photo_sharing_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393697085034-6brjf8hk5v8bvaedb7gq6370tgprvvjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7CBQCNnijB5E-1eBNrpgpBYp_gX6L3bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393697085034-6brjf8hk5v8bvaedb7gq6370tgprvvjh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "393697085034-6v05oufde2ecmq01hn7qs36eabsnugal.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myfirstFirebaseapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
